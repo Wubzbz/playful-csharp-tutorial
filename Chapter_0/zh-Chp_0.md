@@ -1,7 +1,7 @@
-## 0. 开始之前
+# 0. 开始之前
 <hr>
 
-[目录](/zh-Contents.md) | [第1章](../Chatper_1/zh-Chp_1.md)
+[目录](/zh-Contents.md) | [第1章](/Chapter_1/zh-Chp_1.md)
 
 好的，那么，我们要先从哪开始呢？
 

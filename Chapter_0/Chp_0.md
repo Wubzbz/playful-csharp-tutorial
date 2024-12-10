@@ -1,7 +1,7 @@
 ## 0. Before Learning
 <hr>
 
-[Contents](/Contents.md) | [Chapter 1](../Chatper_1/Chp_1.md)
+[Contents](/Contents.md) | [Chapter 1](../Chapter_1/Chp_1.md)
 
 OK, so, where should we start at?
 

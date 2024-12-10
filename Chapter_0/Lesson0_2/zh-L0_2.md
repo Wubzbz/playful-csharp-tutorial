@@ -1,18 +1,17 @@
-## 0.2 搭建跑“码”场
+# 0.2 搭建跑“码”场
 
 <hr>
 
 [目录](/zh-Contents.md) | [第1章](../Chatper_1/zh-Chp_1.md)
 
-<!--TODO: VS和VSC下载网址换成中文的，插图改中文。-->
 
-### 前置任务
+## 前置任务
 
 - 获得Windows/Mac/Linux OS系统的电脑;
     - 下面的例子是用 Windows 11 (x64)展示的。
 - 储存空间。具体查看你选择的开发平台的系统要求。
 
-### 安装Visual Studio 或 Visual Studio Code
+## 安装Visual Studio 或 Visual Studio Code
 
 要在你的设备上跑C#代码，你需要先给你的程序搭建一个“运动场”，也就是“开发环境”。我们在这个环境里设计、编写和测试我们的项目。
 
@@ -32,7 +31,7 @@
 
 然后看这个 [安装说明](https://learn.microsoft.com/zh-cn/visualstudio/install/install-visual-studio?view=vs-2022). **安装时会让你选工作负载，别忘了勾选“.NET桌面开发”**
 
-<img src='./Assets/vs-installer-workloads.png' alt='Choose .NET desktop development'>
+<img src='./Assets/vs-installer-workloads.png' alt='选择.NET桌面开发环境'>
 
 #### 2. 配置开发环境
 
@@ -41,9 +40,11 @@
 接下来，新建一个C#项目，测试你的开发环境能不能工作。点击“创建新项目”，然后给测试项目随便起个名（不推荐使用非英文字符）。
 
 
-<img>
+<img src='./Assets/vs-create-proj.png' alt='Create new project'>
 
-<img>
+<img src='./Assets/vs-create-proj2.png' alt='Create new project'>
+
+<img src='./Assets/vs-name-file.png' alt='Name your project'>
 
 > [!NOTE]
 > 注意到，你可以选择.NET框架的版本。这说明你可以在你的设备上安装不止一个.NET版本，然后为每个项目指定需要的版本。
@@ -51,7 +52,7 @@
 
 最后你会看到像下图这样的窗口。点击屏幕上方中间的绿色三角形按钮，等待几秒。一个黑色的窗口弹出，写着“Hello world”？！太棒了，这是你的第一个app！
 
-<img>
+<img src='./Assets/vs-run.png' alt='Hello world'>
 
 [>>下一节](../Lesson0_3/zh-L0_3.md)
 
@@ -85,7 +86,7 @@
 
 有时你会需要一个不是最新版的特定版本。这时可以点**所有.NET版本**，寻找历史版本。
 
-> [!TIPS]
+> [!TIP]
 > -我能在我的设备上安装多个.NET版本吗？
 > -当然！但是它们不能同时工作。你将会在[后面]()学会如何指定需要的版本。
 
@@ -126,7 +127,6 @@ Hello, World!
 
 [>>下一节](../Lesson0_3/zh-L0_3.md)
 
-> [!TIPS]
+> [!TIP]
 > -为什么VS Code的配置过程比VS麻烦？
 > -因为VS Code只是一个文本编辑器。拿电脑做比，VS像一台整机，而VS Code类似一块主板，你得自己接入其他组件才能让它工作（比如我们刚刚用到的 .NET SDK）。
--Because VS Code is a mere text editor. Take PC as an instance, VS is somewhat like a whole machine while VS Code is a mother board, you have to link it to other components(like .NET SDK we just used) to make it works.
