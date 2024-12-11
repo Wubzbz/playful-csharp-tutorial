@@ -6,6 +6,7 @@
 Welcome to a world of all kinds of data! When we design, debug and run programs, we are actually manipulate data varies from figures to images. Before that, let's get ourselves acquainted with the most common types of data in C#.
 
 <!--
+
 **1.1 [Numbers](./Lesson1_1/L1_1.md)**
 
 **1.2 [Characters](./Lesson1_2/L1_2.md)**
