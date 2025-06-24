@@ -1,14 +1,17 @@
-## 0. Before Learning
-<hr>
+# 第0章：开始之前
 
-[Contents](/Contents.md) | [Chapter 1](../Chapter_1/Chp_1.md)
+---
 
-OK, so, where should we start at?
+[目录](/Contents.md) | [第1章](/Chapter_1/Chp_1.md)
 
-Before we use C#, we certainly need to know what it is and what it is for! Then we will set up a development environment(the playground of your code) on your machine. Don't worry, it's easy as you follow the sections below!
+好的，那么，我们要先从哪开始呢？
 
-**0.1 [what is C#?](./Lesson0_1/L0_1.md)**
+在用C#之前，我们肯定得先知道它是什么和它是用来干什么的！然后，我们会设置“开发环境”，简单说就是给我们的代码提供一个可以跑起来的“操场”。别担心，只要跟着下面的内容一步步来，不会很难的！
 
-**0.2 [Set up a playground](./Lesson0_2/L0_2.md)**
+**0.1 [什么是C#？](./Lesson0_1/L0_1.md)**
 
-**0.3 [Wait, what happened?!](./Lesson0_3/L0_3.md)**
+**0.2 [搭建跑“码”场](./Lesson0_2/L0_2.md)**
+
+**0.3 [刚刚发生了什么？！](./Lesson0_3/L0_3.md)**
+
+**0.4 [开始之前](./Lesson0_4/L0_4.md)**

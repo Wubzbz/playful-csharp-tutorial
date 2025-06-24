@@ -1,26 +1,33 @@
 # playful-csharp-tutorial
-### A Noob-friendly Playful C# Tutorial
-<hr>
 
-- [简体中文](/zh-README.md) 
-- [Contents](/Contents.md)
+### 简单好玩的C#教程
 
-Hi, there!
+---
 
-As you see, this is an unofficial tutorial for C# (to be) made by me. I think those tutorials organised by academical and specialised terms, or abstract descriptions may have stopped many people who want to try C# but without equipping with much knowledge about development. Therefore, an idea comes to me that why not make a noob's C# tutorial and explain the concepts in a super easy way!
+- [English](/en-README.md) 
+- [目录](/Contents.md)
 
-So, I'm going to write a series of documents to tell you:
+你好！
 
-+ what C# is,
-+ how to use it, and
-+ let's make some funny stuff!
+这是一个既简单又有趣的C#语言教程。许多教程遣词造句十分专业、描述抽象，或者默认读者具有相当的相关知识储备（比如计算机组成、操作系统等），对于没有相关基础或者不关心编程以外内容的小白不太友好。所以我正在做一个力求通俗易懂、即学即用的C#教程！
 
-> We wre talking about C#, but we are not *just* talking about C#! So don't be surprised if you found we are discussing music, magic, cooking or anything else!
+这些文档将会告诉你：
 
-By the end of this tutorial, I hope you could have a general command of this programming language and are able to make something with it as your will. But this will not be the terminal. Further learning is vital for developing more complex projects, and I am considering more enjoyable tutorials for noobs.
++ C#是啥
++ C#怎么用
++ 用C#整一些小玩意！
 
-However, the cost of comprehensibility are concision and probably accuracy in some parts. So if you are experienced developer or are looking for advanced introduction, [official documents](https://learn.microsoft.com/en-us/dotnet/csharp/) and other outstanding tutorials are recommended.
+> 我们在讲C#， 但我们不是只聊C#！ 所以，如果你发现话题变成了音乐、魔法、烹饪或者别的东西，请别惊讶。
 
-Content will be released in this repo as soon as possible. And feel free to leave your questions and suggestion for this tutorial. Thank you!
+读完这个教程，您将对C#有一定的了解，也可以自己动手做一些东西。但这还不够。如果要应对更加复杂的项目，您还需深入学习其他内容。我也在考虑推出更多简易生动的教程。
+
+然而，通俗易懂的代价是语言的简洁性和部分内容的准确性。如果您是大佬或有很好基础的学习者，有可能会觉得本教程冗长、事无巨细。推荐您通过[官方文档](https://learn.microsoft.com/en-us/dotnet/csharp/)和其他优秀的教程学习C#。
+
+教程内容将陆续发布在本仓库。请留下您对本教程的任何疑问或建议。感谢！
+
+此教程主要参考了：
+
+- [C# documentation](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
+- [C# language reference](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/)
 
 -Wubzbz
