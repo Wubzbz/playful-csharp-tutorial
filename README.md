@@ -31,3 +31,6 @@
 - [C# language reference](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/)
 
 -Wubzbz
+
+> [!INFORMATION]
+> 作者在创作过程中使用了人工智能搜集信息，但此教程**不是**人工智能生成文本。作者水平有限，如果您在阅读过程中发现错别字、影响理解的表达、甚至事实错误，请在Issue板块提出，感谢理解。
