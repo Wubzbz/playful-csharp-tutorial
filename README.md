@@ -32,5 +32,7 @@
 
 -Wubzbz
 
-> [!INFORMATION]
+> [!NOTE]
 > 作者在创作过程中使用了人工智能搜集信息，但此教程**不是**人工智能生成文本。作者水平有限，如果您在阅读过程中发现错别字、影响理解的表达、甚至事实错误，请在Issue板块提出，感谢理解。
+
+<a href="https://github.com/Wubzbz/playful-csharp-tutorial">playful-csharp-tutorial</a> © 2024 by <a href="https://github.com/Wubzbz">Wubzbz</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">

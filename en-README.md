@@ -1,6 +1,8 @@
 # playful-csharp-tutorial
+
 ### A Noob-friendly Playful C# Tutorial
-<hr>
+
+---
 
 - [简体中文](/README.md) 
 - [Contents](/en-Contents.md)
@@ -23,4 +25,14 @@ However, the cost of comprehensibility are concision and probably accuracy in so
 
 Content will be released in this repo as soon as possible. And feel free to leave your questions and suggestion for this tutorial. Thank you!
 
+**References:**
+
+- [C# documentation](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
+- [C# language reference](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/)
+
 -Wubzbz
+
+> [!NOTE]
+> The author used AI to gather information during the creation process, but this tutorial is **NOT** an AI-generated text. The author's level is limited, so if you find typos, expressions that affect your understanding, or even factual errors during your reading, please raise them in the Issue section and thank you for your understanding.
+
+<a href="https://github.com/Wubzbz/playful-csharp-tutorial">playful-csharp-tutorial</a> © 2024 by <a href="https://github.com/Wubzbz">Wubzbz</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
